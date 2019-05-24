@@ -2,7 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waisefass.github.io/",
+  "homepage": "https://waisefass.github.io/myPortfolio",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
